@@ -1,6 +1,4 @@
 # Go reverse shell for Win/Linux/OSX
- 
--------------- 
 
 Small Go reverse shell for Windows, Linux and OSX.
 Calls the given shell (`shellPath`) and redirects std-pipes to communicate with the server socket.
